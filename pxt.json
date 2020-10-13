@@ -1,0 +1,27 @@
+{
+    "name": "trin07",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "tinkercademy-tinker-kit": "github:tinkertanker/pxt-tinkercademy-tinker-kit#v1.1.1",
+        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5",
+        "radio-broadcast": "*",
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.6",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9",
+        "Autodoor01": "github:trincud67/autodoor01#master",
+        "Doortest01": "github:trincud67/doortest01#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
